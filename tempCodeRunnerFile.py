@@ -1,0 +1,5 @@
+ask",fgmask)
+    cv2.imshow("imBin",imBin)
+    cv2.imshow("mask1",mask1)
+    cv2.imshow("mask2",mask2)
+    cv2.imshow("e_img",e_img)
